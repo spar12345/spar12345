@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on generative AI(open innovation)<br>👯 I’m looking to collaborate on open source contribution projects<br>🌱 I’m currently learning data structures and algorithm , web development<br>💬 Ask me about anything!!!<br>
+🔭  I’m looking to collaborate on open source contribution projects<br>🌱 I’m currently learning data structures and algorithm , web development<br>💬 Ask me about anything!!!<br>
 
 
 ## 🌐 Socials:
