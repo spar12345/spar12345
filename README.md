@@ -35,19 +35,12 @@ Over the last few semesters, I’ve worked on various academic projects involvin
 
 <a href="http://www.github.com/spar12345"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spar12345&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Sparsha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
                   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sparsha N&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Favorite Dev Quote
+"I don’t know everything, but I’m not afraid to learn anything".
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sparsha N&icon=0&color=0)](https://visitcount.itsvg.in)
