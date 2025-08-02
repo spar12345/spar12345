@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭  I’m looking to collaborate on open source contribution projects<br>🌱 I’m currently learning data structures and algorithm , web development<br>💬 Ask me about anything!!!<br>
+🔭  I’m looking to collaborate on open source contribution projects<br>🎓 Final-year EEE student at GSSSIETW, Mysuru  
+- ☁️ Salesforce Explorer<br> 👩‍💻 Passionate about IoT, Embedded Systems, and Software Technos<br>⚡ Fun fact: I love solving real-world problems using tech + creativity
+
 
 
 ## 🌐 Socials:
